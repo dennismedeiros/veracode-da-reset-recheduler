@@ -17,7 +17,7 @@ For the application to run it is required the following dependiencies be install
 To retive dependencies from the command line:
 
 ```
-cd veracode-dynamic-analysis-api-examples
+cd veracode-da-reset-rescheduler
 pip install -r requirements.txt
 ```
 
