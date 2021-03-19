@@ -8,7 +8,7 @@ This program is designed to reset all recurrent scheduled analysis jobs configur
 git clone https://github.com/dennismedeiros/veracode-da-reset-recheduler.git
 ```
 
-### Install dependencies
+### Dependencies
 For the application to run it is required the following dependiencies be installed
 * Python >= 3.0  
 * requests >= 2.21.0
