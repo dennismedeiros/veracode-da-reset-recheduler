@@ -415,7 +415,7 @@ def process_analysis(analysis):
         if bResult == True:
             print(f"Procesing Completed: Successfully updated ({analysis_id}) '{analysis_name}' is updated and scheduled for {start_date}.")
         else:
-            print(f"Procesing Falied: Upate for ({analysis_id}) '{analysis_name}' was not completed.")
+            print(f"Procesing Falied: Update for ({analysis_id}) '{analysis_name}' was not completed.")
     else:
         print(f"Procesing Completed: ({analysis_id}) '{analysis_name}' is scheduled for the future. Update not needed.")
 
